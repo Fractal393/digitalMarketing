@@ -74,6 +74,7 @@ img#logo{
 
 
             .footer {
+              text-decoration: none;
               position: fixed;
               left: 0;
               bottom: 0;
